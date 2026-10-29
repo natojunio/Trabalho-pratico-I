@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Minhas Despesas",
+    "slug": "minhas-despesas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true },
+    "android": { "package": "com.exemplo.minhasdespesas" }
+  }
+}
